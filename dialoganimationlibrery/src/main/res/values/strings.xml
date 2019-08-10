@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DialogAnimationLibrery</string>
+    <string name="title">Granny eating chocolate dialog box</string>
+    <string name="message">This is a granny eating chocolate dialog box. This library is used to help you easily create fancy gify dialog.</string>
+</resources>
