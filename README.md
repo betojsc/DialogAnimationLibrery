@@ -6,6 +6,8 @@ This is a dialogu library with GIF animation
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg?style=flat-square)](https://www.apache.org/licenses/LICENSE-2.0.html)
 [![](https://jitpack.io/v/betojsc/DialogAnimationLibrery.svg)](https://jitpack.io/#betojsc/DialogAnimationLibrery)
 
+[Kotlin version](https://github.com/betojsc/DialogGifKotlin)
+
 ## Prerequisites
 
 Add this in your root `build.gradle` file (**not** your module `build.gradle` file):
